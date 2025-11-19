@@ -1215,7 +1215,7 @@ const App = () => {
             <div className="w-10 h-10 bg-gradient-to-tr from-indigo-600 to-purple-600 rounded-xl flex items-center justify-center text-white shadow-lg shadow-indigo-500/20 transition-transform group-hover:scale-105">
               <Brain size={24} strokeWidth={2.5} />
             </div>
-            <span className="text-2xl font-bold tracking-tight">QuizDeck</span>
+            <span className="text-2xl font-bold tracking-tight">KickBay</span>
           </div>
           
           <div className="flex items-center gap-4">
